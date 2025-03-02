@@ -1,5 +1,12 @@
 # react-mqtt-app
 
+Instructions to run:
+
+- open two command lines and navigate to this directory
+- run "python publisher.py" -> should publsih three streams of data continually (data should show in command line)
+- run "npm run dev" -> open localhost link provided
+- monitor webpage for live graphing and for data published
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
