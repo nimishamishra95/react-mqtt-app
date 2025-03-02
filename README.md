@@ -2,9 +2,10 @@
 
 Instructions to run:
 
-- open two command lines and navigate to this directory
-- run "python publisher.py" -> should publsih three streams of data continually (data should show in command line)
-- run "npm run dev" -> open localhost link provided
+- open two command line windows and navigate to directory for this project
+- run "python publisher.py" in one cmd window -> should publish three streams of data continually (data should show in command line)
+- run "npm run dev" in another cmd window -> open localhost link provided
+- both must be running simultaneously (make sure mqtt and react are downloaded)
 - monitor webpage for live graphing and for data published
 
 # React + TypeScript + Vite
